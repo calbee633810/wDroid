@@ -4,9 +4,9 @@ In our empirical study, we collected 126 WebView-induced bugs from 51 popular op
 
 ## Subject Apps
 
-Package Id | Star Number | KLOC | Category | Rating | Downloads |
----------- | ----------- | ---- | -------- | ------ | --------- |
-jp.redmine.redmineclient | 56 | Productivity | 3.7 | 5K-10K |
+Package Id | Star Num | KLOC | Category | Rating | Downloads |
+---------- | -------- | ---- | -------- | ------ | --------- |
+jp.redmine.redmineclient | 56 | 19.6 | Productivity | 3.7 | 5K-10K
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
