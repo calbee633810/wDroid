@@ -1,11 +1,6 @@
 ## A Tale of Two Cities:How WebView Induces Bugs to Android Applications
 
-[editor on GitHub](https://github.com/calbee633810/wDroid/edit/master/index.md) 
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In our empirical study, we collected 126 WebView-induced bugs from 51 popular open-source Android apps.
 
 ```markdown
 Syntax highlighted code block
