@@ -44,6 +44,19 @@ ID | Package Id | Star Num | KLOC | Category | Rating | Downloads
 36 | me.tripsit.tripmobile | 8 | 2.2 | Education | 4.7 | 10K-50K
 37 | net.fred.feedex | 447 | 8.1 | News & Magazines | 4.4 | 50K-100K
 38 | net.osmand.plus | 1243 | 214.8 | Maps & Navigation | 4.2 | 5M-10M
+39 | nodomain.freeyourgadget.gadgetbridge | 1619 | 41.4 | - | - | -
+40 | org.indywidualni.fblite | 206 | 3.6 | - | - | -
+41 | org.kiwix.kiwixmobile | 100 | 82.7 | Books & Reference | 4.5 | 100K-500K
+42 | org.mozilla.mozstumbler | 528 | 24.1 | Tools | 4.5 | 50K-100K
+43 | org.quantumbadger.redreader | 762 | 31 | News & Magazines | 4.6 | 50K-100K
+44 | org.sufficientlysecure.keychain | 904 | 76 | Communication | 4.4 | 100K-500K
+45 | org.ttrssreader | 69 | 12.4 | News & Magazines | 4.3 | 10K-50K
+46 | cgeo.geocaching | 808 | 78.7 | Entertainment | 4.4 | 1M-5M
+47 | com.github.pockethub.android | 9156 | 20.8 | Productivity | 3.4 | 10K-50K
+48 | com.linkbubble | 1043 | 23 | - | - | -
+49 | org.wordpress.android | 1636 | 109.1 | Productivity | 4.2 | 5M-10M
+50 | io.evercam.androidapp | 50 | 14.9 | Tools | 3.9 | 10K-50K
+51 | itkach.aard2 | 142 | 4.8 | Books & Reference | 4.8 | 10K-50K
 
 
 
