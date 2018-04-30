@@ -61,3 +61,4 @@ ID | Package Id | Star Num | KLOC | Category | Rating | Downloads
 51 | itkach.aard2 | 142 | 4.8 | Books & Reference | 4.8 | 10K-50K
 
 ### Empirical Study Dataset
+Our empirical study dataset which contains 126 WebView-induced bugs is publicly available: [Download](https://drive.google.com/open?id=1MthQ4BEkTKGMmqK3Uucve4JmJ6f2O0zmeRHBAefMpH8)
