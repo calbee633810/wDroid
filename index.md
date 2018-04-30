@@ -16,6 +16,17 @@ ID | Package Id | Star Num | KLOC | Category | Rating | Downloads
 8 | at.tomtasche.reader | 57 | 3.9 | Business | 4 | 50K-100K
 9 | au.com.wallaceit.reddinator | 29 | 13.2 | News & Magazines | 4.3 | 50K-100K
 10 | ca.rmen.android.networkmonitor | 24 | 9.3 | Tools | 4.3 | 50K-100K
+11 | com.adonai.manman | 18 | 6 | Education | 4.6 | 1K-5K
+12 | com.cradle.iitc_mobile | 857 | 7.4 | - | - | -
+13 | com.danvelazco.fbwrapper | 222 | 1.7 | Social | 4.1 | 100K-500K
+14 | com.fsck.k9 | 3419 | 93.6 | Communication | 4.2 | 5M-10M
+15 | com.ichi2.anki | 1010 | 51.1 | Education | 4.5 | 1M-5M
+16 | com.liato.bankdroid | 251 | 17.7 | Finance | 4.1 | 100K-500K
+17 | com.manuelmaly.hn | 464 | 4.3 | News & Magazines | 4.4 | 50K-100K
+18 | com.newsblur | 4759 | 17.4 | News & Magazines | 3.8 | 50K-100K
+19 | com.passcard | 4 | 0.2 | - | - | -
+20 | com.pindroid | 247 | 7.8 | Productivity | 4.3 | 10K-50K
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
