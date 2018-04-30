@@ -1,13 +1,13 @@
-## A Tale of Two Cities:How WebView Induces Bugs to Android Applications
+# A Tale of Two Cities:How WebView Induces Bugs to Android Applications
 
 In our empirical study, we collected 126 WebView-induced bugs from 51 popular open-source Android apps. We aim to understand their root causes, bug consequences, and manifestation. We release our dataset for research purposes.
 
-# Subject Apps
+## Subject Apps
 ```markdown
-First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Package Id | Star Number | KLOC | Category | Rating | Downloads |
+---------- | ----------- | ---- | -------- | ------ | --------- |
+jp.redmine.redmineclient | 56 | Productivity | 3.7 | 5K-10K |
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
