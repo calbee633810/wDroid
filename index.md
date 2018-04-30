@@ -32,7 +32,7 @@ ID | Package Id | Star Num | KLOC | Category | Rating | Downloads
 22 | de.danoeh.antennapod | 1699 | 47.3 | Video Players & Editors | 100K-500K
 23 | de.k3b.android.locationMapViewer | 3 | 2.4 | - | - | -
 24 | de.luhmer.owncloudnewsreader | 343 | 13.6 | News & Magazines | 4.5 | 1K-5K 
-25 | de.ph1b.audiobook | 834 | 0.1 | Music & Audio | 4.4 | 100K-500K
+25 | de.ph1b.audiobook | 834 | 11.9 | Music & Audio | 4.4 | 100K-500K
 26 | de.reimardoeffinger.quickdic | 59 | 5.1 | Books & Reference | 4.7 | 10K-50K
 27 | de.tap.easy_xkcd | 76 | 8.7 | Comics | 4.7 | 10K-50K
 28 | email.schaal.ocreader | 40 | 7.2 | - | - | -
