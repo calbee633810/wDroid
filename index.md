@@ -4,6 +4,8 @@ In our empirical study, we collected 126 WebView-induced bugs from 51 popular op
 
 ### Subject Apps
 
+The 51 subject apps that formed our empirical study dataset are listed blow.
+
 ID | Package Id | Star Num | KLOC | Category | Rating | Downloads
 -- | ---------- | -------- | ---- | -------- | ------ | ---------
 1 | jp.redmine.redmineclient | 56 | 19.6 | Productivity | 3.7 | 5K-10K
@@ -58,14 +60,4 @@ ID | Package Id | Star Num | KLOC | Category | Rating | Downloads
 50 | io.evercam.androidapp | 50 | 14.9 | Tools | 3.9 | 10K-50K
 51 | itkach.aard2 | 142 | 4.8 | Books & Reference | 4.8 | 10K-50K
 
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/calbee633810/wDroid/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Subject Apps
