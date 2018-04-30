@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to \omega Droid Pages
 
 You can use the [editor on GitHub](https://github.com/calbee633810/wDroid/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
