@@ -1,6 +1,6 @@
 ## A Tale of Two Cities:How WebView Induces Bugs to Android Applications
 
-In our empirical study, we collected 126 WebView-induced bugs from 51 popular open-source Android apps.
+In our empirical study, we collected 126 WebView-induced bugs from 51 popular open-source Android apps. We aim to understand their root causes, bug consequences, and manifestation. We release our dataset for reference.
 
 ```markdown
 Syntax highlighted code block
