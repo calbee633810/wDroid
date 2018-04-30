@@ -4,11 +4,18 @@ In our empirical study, we collected 126 WebView-induced bugs from 51 popular op
 
 ### Subject Apps
 
-Package Id | Star Num | KLOC | Category | Rating | Downloads |
----------- | -------- | ---- | -------- | ------ | --------- |
-jp.redmine.redmineclient | 56 | 19.6 | Productivity | 3.7 | 5K-10K
-com.duckduckgo.mobile.android | 435 | 14.9 | Tools | 4.4 | 1M-5M
-io.github.hidroh.materialistic | 1409 | 25.5 | News & Magazines | 4.7 | 50K-100K
+ID | Package Id | Star Num | KLOC | Category | Rating | Downloads
+-- | ---------- | -------- | ---- | -------- | ------ | ---------
+1 | jp.redmine.redmineclient | 56 | 19.6 | Productivity | 3.7 | 5K-10K
+2 | com.duckduckgo.mobile.android | 435 | 14.9 | Tools | 4.4 | 1M-5M
+3 | io.github.hidroh.materialistic | 1409 | 25.5 | News & Magazines | 4.7 | 50K-100K
+4 | nya.miku.wishmaster | 82 | 54.2 | Communication | 3.6 | 100K-500K
+5 | org.wikipedia | 574 | 60 | Books & Reference | 4.4 | 10M-50M
+6 | aarddict.android | 72 | 4.1 | Books & Reference | 4.5 | 10K-50K
+7 | acr.browser.lightning | 996 | 6 | Communication | 4.3 | 5M-10M
+8 | at.tomtasche.reader | 57 | 3.9 | Business | 4 | 50K-100K
+9 | au.com.wallaceit.reddinator | 29 | 13.2 | News & Magazines | 4.3 | 50K-100K
+10 | ca.rmen.android.networkmonitor | 24 | 9.3 | Tools | 4.3 | 50K-100K
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
