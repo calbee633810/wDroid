@@ -31,6 +31,19 @@ ID | Package Id | Star Num | KLOC | Category | Rating | Downloads
 23 | de.k3b.android.locationMapViewer | 3 | 2.4 | - | - | -
 24 | de.luhmer.owncloudnewsreader | 343 | 13.6 | News & Magazines | 4.5 | 1K-5K 
 25 | de.ph1b.audiobook | 834 | 0.1 | Music & Audio | 4.4 | 100K-500K
+26 | de.reimardoeffinger.quickdic | 59 | 5.1 | Books & Reference | 4.7 | 10K-50K
+27 | de.tap.easy_xkcd | 76 | 8.7 | Comics | 4.7 | 10K-50K
+28 | email.schaal.ocreader | 40 | 7.2 | - | - | -
+29 | fr.gaulupeau.apps.InThePoche | 179 | 12.5 | Productivity | 4.3 | 10K-50K
+30 | fr.gouv.etalab.mastodon | 11 | 24.6 | Communication | 4.5 | 5K-10K
+31 | fr.renzo.wikipoff | 12 | 6.3 | - | - | -
+32 | im.vector.alpha | 455 | 48.8 | Communication | 4.5 | 50K-100K
+33 | in.shick.diode | 122 | 13.5 | News & Magazines | 4.4 | 10K-50K
+34 | jonas.tool.saveForOffline | 71 | 2.3 | - | - | -
+35 | me.ccrama.redditslide | 780 | 75.8 | News & Magazines | 4.5 | 100K-500K
+36 | me.tripsit.tripmobile | 8 | 2.2 | Education | 4.7 | 10K-50K
+37 | net.fred.feedex | 447 | 8.1 | News & Magazines | 4.4 | 50K-100K
+38 | net.osmand.plus | 1243 | 214.8 | Maps & Navigation | 4.2 | 5M-10M
 
 
 
