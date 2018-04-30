@@ -26,6 +26,12 @@ ID | Package Id | Star Num | KLOC | Category | Rating | Downloads
 18 | com.newsblur | 4759 | 17.4 | News & Magazines | 3.8 | 50K-100K
 19 | com.passcard | 4 | 0.2 | - | - | -
 20 | com.pindroid | 247 | 7.8 | Productivity | 4.3 | 10K-50K
+21 | com.shapps.mintubeapp | 210 | 2.5 | - | - | -
+22 | de.danoeh.antennapod | 1699 | 47.3 | Video Players & Editors | 100K-500K
+23 | de.k3b.android.locationMapViewer | 3 | 2.4 | - | - | -
+24 | de.luhmer.owncloudnewsreader | 343 | 13.6 | News & Magazines | 4.5 | 1K-5K 
+25 | de.ph1b.audiobook | 834 | 0.1 | Music & Audio | 4.4 | 100K-500K
+
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
